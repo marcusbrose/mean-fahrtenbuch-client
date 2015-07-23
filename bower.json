@@ -1,0 +1,20 @@
+{
+  "name": "fahrtenbuch-client",
+  "version": "0.0.1",
+  "authors": [
+    "Marcus Brose <contact@marcusbrose.com>"
+  ],
+  "description": "Fahrtenbuch Web-Client",
+  "license": "MIT",
+  "homepage": "http://marcusbrose.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
